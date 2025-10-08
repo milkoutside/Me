@@ -6,19 +6,6 @@
 
 ---
 
-<h2 align="center">📦 Core Technologies</h2>
-
-<p align="center">
-  🔹 <b>Frontend:</b> Angular, Vue.js, TypeScript, Bootstrap, Tailwind, JS, CSS  
-  🔹 <b>Backend:</b> PHP, .NET, ASP.NET, Laravel  
-  🔹 <b>Databases / Queues:</b> MySQL, MongoDB, Redis, RabbitMQ  
-  🔹 <b>DevOps:</b> Docker, Nginx, Linux  
-  🔹 <b>Tools:</b> PhpStorm, VSCode, Git, GitHub, Postman  
-  🔹 <b>Other:</b> C++  
-</p>
-
----
-
 <h2 align="center">📫 Contacts</h2>
 
 <p align="center">
